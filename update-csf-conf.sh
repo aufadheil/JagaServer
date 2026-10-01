@@ -33,6 +33,10 @@ declare -A CONFIGS=(
     ["LF_TRIGGER_PERM"]="1"
     ["LF_SSHD"]="3"
     ["LF_SSHD_PERM"]="1"
+    ["TCP_IN"]=""
+    ["UDP_IN"]=""
+    ["TCP6_IN"]=""
+    ["UDP6_IN"]=""
 )
 
 echo "[+] Memproses pembaruan konfigurasi di $CONF_FILE ..."
