@@ -4,6 +4,7 @@ Description=Run Port Trapper every minute
 [Timer]
 OnBootSec=1min
 OnUnitActiveSec=1min
+RandomizedDelaySec=5s
 Unit=port-trapper.service
 
 [Install]
