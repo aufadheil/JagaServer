@@ -1,4 +1,4 @@
-# (v2) AutoBlock Penyerang IP (Khusus CSF Aetherinox Fork)
+# AutoBlock Penyerang IP (Khusus CSF Aetherinox Fork)
 
 Kumpulan script Bash yang efisien, hemat vCPU, dan mendukung dual-stack
 (**IPv4 & IPv6**), ditargetkan untuk **Debian 13 (trixie)**.
