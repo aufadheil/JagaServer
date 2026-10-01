@@ -1,5 +1,6 @@
 [Unit]
 Description=Port Trapper Auto-Block Service
+Documentation=file:/etc/csf/csfpost.sh
 After=network.target
 
 [Service]
